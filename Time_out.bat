@@ -1,0 +1,1 @@
+ @mshta vbscript: msgbox("Time to stand up,boy!",64,"Time Out")(window.close)
